@@ -1,0 +1,1 @@
+[PCA](https://practicum.yandex.ru/blog/metod-glavnyh-komponent/)
